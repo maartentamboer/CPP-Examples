@@ -3,3 +3,4 @@ project (CPP_Examples)
 
 add_subdirectory(MemberFncPtr)
 add_subdirectory(VectorUniquePtr)
+add_subdirectory(GenericFncPtr)

@@ -15,3 +15,6 @@ Example of Member function pointers.
 
 #### VectorUniquePtr
 Example of a vector with unique pointers to a class. Uses the `std::make_unique` from the new C++14 standard. An alternative that works with C++11 is also shown.
+
+#### GenericFncPtr
+Some magic using C++ Member function pointers with templates and an interface class.
