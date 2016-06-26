@@ -8,7 +8,7 @@
 - `cmake ..`
 - `make`
 
-Project has been compiled with Apple LLVM version 6.0 (clang-600.0.56) (based on LLVM 3.5svn)
+Project has been compiled with Apple LLVM version 7.3.0 (clang-703.0.29)
 
 ##Contents
 #### MemberFncPtr
