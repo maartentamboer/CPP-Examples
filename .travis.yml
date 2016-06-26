@@ -12,3 +12,13 @@ script:
 
 after_success:
   - bash <(curl -s https://codecov.io/bash)
+
+addons:
+  apt:
+    sources:
+      - llvm-toolchain-precise
+      - ubuntu-toolchain-r-test
+      packages:
+      - clang-3.7
+      - g++-5
+      - gcc-5
