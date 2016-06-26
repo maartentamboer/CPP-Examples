@@ -1,4 +1,5 @@
 # CPP-Examples
+[![Build Status](https://travis-ci.org/maartentamboer/CPP-Examples.svg?branch=master)](https://travis-ci.org/maartentamboer/CPP-Examples)
 
 ##How to build
 - Go to the root directory of the project
