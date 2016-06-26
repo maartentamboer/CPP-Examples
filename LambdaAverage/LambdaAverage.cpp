@@ -12,6 +12,7 @@
 #include <algorithm>
 #include <chrono>
 #include <random>
+#include <functional>
 using std::cout;
 using std::endl;
 
