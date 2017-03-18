@@ -1,7 +1,7 @@
 # CPP-Examples
 [![Build Status](https://travis-ci.org/maartentamboer/CPP-Examples.svg?branch=master)](https://travis-ci.org/maartentamboer/CPP-Examples)
 
-##How to build
+## How to build
 - Go to the root directory of the project
 - `mkdir build`
 - `cd build`
@@ -10,7 +10,7 @@
 
 Project has been compiled with Apple LLVM version 7.3.0 (clang-703.0.29)
 
-##Contents
+## Contents
 #### MemberFncPtr
 Example of Member function pointers.  
 
