@@ -19,3 +19,6 @@ Example of a vector with unique pointers to a class. Uses the `std::make_unique`
 
 #### GenericFncPtr
 Some magic using C++ Member function pointers with templates and an interface class.
+
+#### Future
+Tests using std::future and std::async to calculate average of a vector. The amount of parallel threads is changed by a variable and the results have been plotted. Note that this test was performed on a quad core machine (2,5 GHz Intel Core i5).
